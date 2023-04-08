@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Sanchez', serif;
+    background-color: rgba(255, 255, 255, 0.938);
+}
+.bottom-container{
+    background-color: #93B5B3;
+    padding: 25px;
+    margin-top: 100px;
+}
+.bottom-smile{
+    position: absolute;
+    left: 50%;
+    top: 5%;
+}
+.btn {
+    background: #93B5B3;
+    background-image: -webkit-linear-gradient(top, #93B5B3, #48807c);
+    background-image: -moz-linear-gradient(top, #93B5B3, #48807c);
+    background-image: -ms-linear-gradient(top, #93B5B3, #48807c);
+    background-image: -o-linear-gradient(top, #93B5B3, #48807c);
+    background-image: linear-gradient(to bottom, #93B5B3, #48807c);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-size: 20px;
+    font-weight:bolder;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #93B5B3;
+    background-image: -webkit-linear-gradient(top, #9aadac, #b4e9e5);
+    background-image: -moz-linear-gradient(top, #9aadac, #b4e9e5);
+    background-image: -ms-linear-gradient(top, #9aadac, #b4e9e5);
+    background-image: -o-linear-gradient(top, #9aadac, #b4e9e5);
+    background-image: linear-gradient(to bottom, #9aadac, #b4e9e5);
+    text-decoration: none;
+  }
+.code{
+    border-radius: 100%;
+    float:left;
+    margin-right:50px;
+}
+.desc{
+    width: 60%;
+    margin: 10px auto 50px;
+}
+.dp{
+    border-radius: 100%;
+}
+.foot{
+    color: white;
+}
+.footer-link{
+    color: #48807c;
+    padding: 0px 15px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: white;
+}
+h1{
+    color:#93B5B3;
+    font-family: 'Press Start 2P', cursive;
+    margin: 0;
+    padding-top: 100px;
+}
+h2{
+    color:#93B5B3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+h3{
+    color:#48807c;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border-style: dotted;
+    border-width: 5px;
+    border-top: none;
+    color: rgb(212, 212, 212);
+    height: 0;
+    margin: 75px auto;
+    width: 5%;
+}
+.IT{
+    text-decoration:underline;
+}
+.para{
+    text-align: justify;
+}
+.perfect{
+    border-radius: 100%;
+    float: right;
+    margin-left:50px;
+}
+.quote{
+    margin: -75px auto 50px;
+    padding-bottom: 50px;
+    font-family: cursive;
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    padding: 25px;
+}
+.top-smile{
+    position: absolute;
+    left: 46%;
+    top: 5%;
+}
+.upper-container{
+    background-color: #F2F6F5;
+    margin-bottom: 50px;
+}
